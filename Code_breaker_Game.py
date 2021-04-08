@@ -1,10 +1,3 @@
-###########################
-##  ------ Game ------   ##
-##  --- CODEBREAKER ---  ##
-## --Nope--Close--Match--##
-###########################
-
-
 from art import *
 import random
 print('''Enter a 3 digit number to guess what the computer is think.
