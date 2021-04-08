@@ -1,4 +1,4 @@
-#CODEBREAKER GAME
+### CODEBREAKER GAME ####
 
 The objective of this game is to try to guess what the computer is thinking, by input 3 digits of integers. 
 1. The computer will think of 3 digit number that has no repeating digits.
